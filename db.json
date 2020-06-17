@@ -1,0 +1,64 @@
+{
+  "users":[
+    {
+            "id": "1",
+      "firstname": "john",
+      "lastname": "doe",
+      "email": "john@gmail.com",
+      "age": "24",
+      "companyid": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "karen",
+      "lastname": "jackson",
+      "email": "karen@gmail.com",
+      "age": "34",
+      "companyid": "2"
+    },
+    {
+      "id": "3",
+      "firstname": "Tom",
+      "lastname": "case",
+      "email": "tom@gmail.com",
+      "age": "27",
+      "companyid": "3"
+    },
+    {
+      "id": "4",
+      "firstname": "Darrell",
+      "lastname": "wilson",
+      "email": "darrell@gmail.com",
+      "age": "44",
+      "companyid": "4"
+    },
+    {
+      "firstname": "Arslan",
+      "lastname": "Babar",
+      "email": "arslan25@yahoo.com",
+      "age": "25",
+      "companyid": "2",
+      "id": "jbrTeU9"
+    }
+  ],
+  "companies": [
+    {
+      "companyid": "1",
+      "companyName": "Microsoft"
+    },
+    {
+      "companyid": "2",
+      "companyName": "Apple"
+    },
+    {
+      "companyid": "3",
+      "companyName": "Android"
+    },
+    {
+      "companyid": "4",
+      "companyName": "Huawei"
+    }
+  
+  ]
+
+}
